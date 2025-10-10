@@ -1,5 +1,5 @@
 # A Distributed system Chat Application
-#### The aim of this project is to practice distributed computing concepts by creating a simple chat application that operates over a network of multiple server nodes and clients.
+#### The aim of this project is to practise distributed computing concepts by creating a simple chat application that operates over a network of multiple server nodes and clients.
 
 ## Setup
 
