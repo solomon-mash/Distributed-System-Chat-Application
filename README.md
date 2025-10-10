@@ -78,4 +78,4 @@ After login you have the option to start a conversation on the group chat or wit
 
 Incase of any issues, feel free to mention it in the group chat
 
-#### View Live Preview: https://group-info-chat.vercel.app/
+## View Live Preview: https://group-info-chat.vercel.app/
